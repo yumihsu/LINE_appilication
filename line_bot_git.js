@@ -1,10 +1,8 @@
-//yumi
-
-var channelToken = '6XXXXXXXXXXXXXXXBcTOUZYr7pu63zOdBVMgg8OeIS24WhERUA7ePDej1YJWFFO6o0gJ9LQRspZXHNl+DPgyBmoJ6XqlLPcg8W4GOX2RmY+CikiNNdQkhOFxN/i/52wSHQXb+GOYXR3gdB04t89/1O/w1cDnyilFU=';
-var connectionName = 'XXXXXXXXXXXXXXX1433;databaseName=';
-var user = 'autogymadmin@autogym';
-var userPwd = '';
-var db = '';
+var channelToken = '你的channelToken';
+var connectionName = 'connectionName';
+var user = 'user_name';
+var userPwd = 'user_Password';
+var db = 'db_name';
 var dbUrl = 'jdbc:sqlserver://' + connectionName + db;
 
 // 回覆訊息
